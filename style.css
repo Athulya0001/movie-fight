@@ -8,7 +8,7 @@ input {
   background: none;
   outline: none;
   padding: 10px;
-  border: 1px solid #fafafa92;
+  /* border: 1px solid #fafafa92; */
   border-radius: 8px;
   color: #fafafa;
 }
